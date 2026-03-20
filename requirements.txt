@@ -2,7 +2,7 @@ streamlit
 google-generativeai
 streamlit-mic-recorder
 streamlit-webrtc
-gTTS
+gtts
 beautifulsoup4
 requests
 pandas
